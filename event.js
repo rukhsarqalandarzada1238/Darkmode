@@ -27,3 +27,4 @@ searchInput.addEventListener("input", () => {
 
   noMatch.classList.toggle("hidden", matches > 0);
 });
+console.log("Event project is running!");
