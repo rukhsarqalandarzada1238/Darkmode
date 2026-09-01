@@ -1,4 +1,4 @@
-# My Project
+# EventListeners
 
 A simple project to practice Git workflow.
 
